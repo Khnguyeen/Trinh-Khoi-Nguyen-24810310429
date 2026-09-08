@@ -1,0 +1,14 @@
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\obj\Debug\net10.0\BaiTap2_EmployeeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\obj\Debug\net10.0\BaiTap2_EmployeeHierarchy.AssemblyInfoInputs.cache
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\obj\Debug\net10.0\BaiTap2_EmployeeHierarchy.AssemblyInfo.cs
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\obj\Debug\net10.0\BaiTap2_EmployeeHierarchy.csproj.CoreCompileInputs.cache
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\bin\Debug\net10.0\BaiTap2_EmployeeHierarchy.exe
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\bin\Debug\net10.0\BaiTap2_EmployeeHierarchy.deps.json
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\bin\Debug\net10.0\BaiTap2_EmployeeHierarchy.runtimeconfig.json
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\bin\Debug\net10.0\BaiTap2_EmployeeHierarchy.dll
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\bin\Debug\net10.0\BaiTap2_EmployeeHierarchy.pdb
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\obj\Debug\net10.0\BaiTap2_EmployeeHierarchy.dll
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\obj\Debug\net10.0\refint\BaiTap2_EmployeeHierarchy.dll
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\obj\Debug\net10.0\BaiTap2_EmployeeHierarchy.pdb
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\obj\Debug\net10.0\BaiTap2_EmployeeHierarchy.genruntimeconfig.cache
+D:\Bài tập.Net\BaiTap2_EmployeeHierarchy\BaiTap2_EmployeeHierarchy\obj\Debug\net10.0\ref\BaiTap2_EmployeeHierarchy.dll

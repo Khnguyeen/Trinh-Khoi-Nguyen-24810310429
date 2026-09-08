@@ -1,0 +1,14 @@
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\obj\Debug\net10.0\BaiTap1_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\obj\Debug\net10.0\BaiTap1_BankAccount.AssemblyInfoInputs.cache
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\obj\Debug\net10.0\BaiTap1_BankAccount.AssemblyInfo.cs
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\obj\Debug\net10.0\BaiTap1_BankAccount.csproj.CoreCompileInputs.cache
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\bin\Debug\net10.0\BaiTap1_BankAccount.exe
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\bin\Debug\net10.0\BaiTap1_BankAccount.deps.json
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\bin\Debug\net10.0\BaiTap1_BankAccount.runtimeconfig.json
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\bin\Debug\net10.0\BaiTap1_BankAccount.dll
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\bin\Debug\net10.0\BaiTap1_BankAccount.pdb
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\obj\Debug\net10.0\BaiTap1_BankAccount.dll
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\obj\Debug\net10.0\refint\BaiTap1_BankAccount.dll
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\obj\Debug\net10.0\BaiTap1_BankAccount.pdb
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\obj\Debug\net10.0\BaiTap1_BankAccount.genruntimeconfig.cache
+D:\Bài tập.Net\BaiTap1_BankAccount\BaiTap1_BankAccount\obj\Debug\net10.0\ref\BaiTap1_BankAccount.dll

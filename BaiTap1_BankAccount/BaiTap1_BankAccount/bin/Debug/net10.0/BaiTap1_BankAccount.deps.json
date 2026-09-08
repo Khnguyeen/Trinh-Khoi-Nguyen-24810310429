@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BaiTap1_BankAccount/1.0.0": {
+        "runtime": {
+          "BaiTap1_BankAccount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiTap1_BankAccount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

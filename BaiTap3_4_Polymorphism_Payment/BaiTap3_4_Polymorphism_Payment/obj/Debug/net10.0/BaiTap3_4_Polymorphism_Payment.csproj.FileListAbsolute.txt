@@ -1,0 +1,14 @@
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\obj\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\obj\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.AssemblyInfoInputs.cache
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\obj\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.AssemblyInfo.cs
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\obj\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.csproj.CoreCompileInputs.cache
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\bin\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.exe
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\bin\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.deps.json
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\bin\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.runtimeconfig.json
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\bin\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.dll
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\bin\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.pdb
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\obj\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.dll
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\obj\Debug\net10.0\refint\BaiTap3_4_Polymorphism_Payment.dll
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\obj\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.pdb
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\obj\Debug\net10.0\BaiTap3_4_Polymorphism_Payment.genruntimeconfig.cache
+D:\Bài tập.Net\BaiTap3_4_Polymorphism_Payment\BaiTap3_4_Polymorphism_Payment\obj\Debug\net10.0\ref\BaiTap3_4_Polymorphism_Payment.dll

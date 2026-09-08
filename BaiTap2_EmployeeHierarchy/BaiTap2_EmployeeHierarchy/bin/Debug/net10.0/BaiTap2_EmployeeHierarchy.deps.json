@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BaiTap2_EmployeeHierarchy/1.0.0": {
+        "runtime": {
+          "BaiTap2_EmployeeHierarchy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaiTap2_EmployeeHierarchy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
